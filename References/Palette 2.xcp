@@ -1,0 +1,9 @@
+<Palette Name="Palette 2" ScaleMode="Repeat">
+  <PaletteEntry Color="#C6EFCE" Color2="#C6EFCE" />
+  <PaletteEntry Color="#FFC7CE" Color2="#FFC7CE" />
+  <PaletteEntry Color="#E4E4E4" Color2="#E4E4E4" />
+  <PaletteEntry Color="Silver" Color2="Silver" />
+  <PaletteEntry Color="#4E4E4E" Color2="#4E4E4E" />
+  <PaletteEntry Color="Black" Color2="Black" />
+  <PaletteEntry Color="#FF0080" Color2="#FF0080" />
+</Palette>
